@@ -18,4 +18,4 @@ This project is a simple landing page built using basic HTML and CSS. The landin
 - **Third Image in Second Section**: Photo by [Sora Shimazaki](https://www.pexels.com/photo/woman-using-a-smartphone-5673488/)
 - **Fourth Image in Second Section**: Photo by [Tima Miroshnichenko](https://www.pexels.com/photo/person-holding-a-laptop-5453811/)
 
-# By: Jayden Chia
+By: Jayden Chia
